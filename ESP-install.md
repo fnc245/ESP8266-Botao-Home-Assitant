@@ -15,9 +15,10 @@ Este guia explica como configurar o Arduino IDE para programar o ESP8266.
    - Ou "Arduino" > "Preferences" (macOS)
 3. **Localizar "URLs Adicionais de Gerenciadores de Placas":** Encontre o campo com este nome na janela de Preferências.
 4. **Colar a URL:** Copie e cole a seguinte URL no campo:
-Use code with caution.
-Markdown
+
+
 https://arduino.esp8266.com/stable/package_esp8266com_index.json
+
 - Se já houver outras URLs no campo, separe-as com vírgula.
 5. **Salvar as Alterações:** Clique em "OK".
 
@@ -47,7 +48,6 @@ https://arduino.esp8266.com/stable/package_esp8266com_index.json
 - **Verificar o Chip do Adaptador:** A maioria usa o chip **CH340G**.
 - **Baixar e Instalar o Driver:** Se necessário, baixe o driver CH340 de um site confiável e instale-o.
 
-## Pronúncia! 🎉
 
 Agora você pode programar seu ESP8266 com o Arduino IDE! 
 
