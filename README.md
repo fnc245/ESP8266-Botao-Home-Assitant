@@ -36,7 +36,7 @@ Este projeto transforma um ESP8266 ESP-01 em um dispositivo IoT que controla um 
 
 2. **Arduino IDE:**
    - Instale o Arduino IDE: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
-   - Adicione o suporte ao ESP8266 no Arduino IDE (veja instruções detalhadas em: [link-para-tutorial-de-instalacao-do-ESP8266](ESP-install.md)).
+   - Adicione o suporte ao ESP8266 no Arduino IDE (veja instruções detalhadas em: [Tutorial de instalacao do ESP8266](ESP-install.md)).
 
 3. **Configuração do Código:**
    - Abra o arquivo `MQTT2BotaoHA_V2.ino` no Arduino IDE.
