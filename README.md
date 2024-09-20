@@ -30,7 +30,7 @@ Este projeto transforma um ESP8266 ESP-01 em um dispositivo IoT que controla um 
 
 **Exemplo de esquema usando o Fritzing:**
 
-[![Esquema de ligação](link-para-a-imagem-do-esquema.png)](link-para-a-imagem-do-esquema.png)
+[![Esquema de ligação]](link-para-a-imagem-do-esquema.png)
 
 ## Instalação e Configuração
 
